@@ -960,7 +960,7 @@
 		<int>6</int>
 		<wis>10</wis>
 		<cha>6</cha>
-		<resist>lightning; thunder; bludgeoning, piercing, and slashing from nonmagical weapons</resist>
+		<resist>lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons</resist>
 		<immune>poison</immune>
 		<conditionImmune>exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</conditionImmune>
 		<senses>darkvision 60 ft.</senses>
